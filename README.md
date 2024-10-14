@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Here’s a basic description you can use for your GitHub project:
 
-## Getting Started
+---
 
-First, run the development server:
+# Countdown Timer with React & TypeScript
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is a countdown timer built with **React** and **TypeScript**, styled using **Tailwind CSS**, and utilizes **ShadCN UI components**. The timer allows users to input a duration, start, pause, resume, and reset the countdown. It's designed to be responsive and easy to extend.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Features:
+- Input a countdown duration in seconds.
+- Start, pause, and resume functionality.
+- Reset the timer to the original duration.
+- Displays the time in `MM:SS` format.
+- Built using **React hooks** (`useState`, `useEffect`, `useRef`).
+- Styled with **Tailwind CSS** for a modern look.
+- Customizable **ShadCN components** for Input and Button.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tech Stack:
+- **React** with **TypeScript**
+- **Tailwind CSS** for styling
+- **ShadCN** UI components
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### How to Run:
+1. Clone the repository.
+2. Install dependencies: `npm install` or `yarn install`.
+3. Start the development server: `npm run dev` or `yarn dev`.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+You can customize this based on specific details of your project!
